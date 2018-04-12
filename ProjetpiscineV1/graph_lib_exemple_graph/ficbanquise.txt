@@ -1,0 +1,6 @@
+5
+12.0 100 200krill.jpg
+20.0 250 200poissons.jpg
+30.0 400 200phoque.jpg
+50.0 400 350liondemer.jpg
+70.0 250 350oursblanc.jpg
