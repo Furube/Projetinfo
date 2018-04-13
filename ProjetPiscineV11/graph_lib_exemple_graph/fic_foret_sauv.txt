@@ -1,0 +1,7 @@
+6
+0 12 301 44Hawk.jpg
+2 30 659 61Skunk.jpg
+3 50 46 246FieldMouse.jpg
+6 20 416 321Sparrow.jpg
+7 30 239 521Grass.jpg
+9 70 670 545blueberry.jpg

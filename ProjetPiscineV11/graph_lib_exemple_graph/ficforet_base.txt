@@ -1,0 +1,11 @@
+10
+0 12.0 100 50Hawk.jpg
+1 20.0 300 50GreatHornedOwl.jpg
+2 30.0 500 100Skunk.jpg
+3 50.0 50 250FieldMouse.jpg
+4 70.0 200 250Rabbit.jpg
+5 12.0 350 250shrew.jpg
+6 20.0 500 250Sparrow.jpg
+7 30.0 100 400Grass.jpg
+8 50.0 300 400Grasshopper.jpg
+9 70.0 500 400blueberry.jpg
