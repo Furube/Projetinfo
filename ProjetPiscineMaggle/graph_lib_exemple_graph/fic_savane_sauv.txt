@@ -1,0 +1,15 @@
+14
+12 160 56lion.jpg
+20 330 33leopard.jpg
+30 486 36guepard.jpg
+50 705 39hyene.jpg
+70 137 250buffle.jpg
+12 280 199gnou.jpg
+20 420 214phacochere.jpg
+30 577 205zebre.jpg
+50 764 224gazelle.jpg
+70 120 480hippopotame.jpg
+77.1429 260 380fourmi.jpg
+20 423 442plantes.jpg
+30 599 382babouin.jpg
+50 749 409elephant.jpg

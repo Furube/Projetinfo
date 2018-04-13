@@ -1,0 +1,11 @@
+10
+12 235 35Hawk.jpg
+20 449 19GreatHornedOwl.jpg
+30 681 60Skunk.jpg
+50 138 246FieldMouse.jpg
+70 321 236Rabbit.jpg
+12 496 229shrew.jpg
+34.2857 773 300Sparrow.jpg
+30 188 473Grass.jpg
+50 474 472Grasshopper.jpg
+70 664 477blueberry.jpg
