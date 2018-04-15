@@ -1,0 +1,11 @@
+10
+12 98 48Hawk.jpg
+20 298 48GreatHornedOwl.jpg
+30 498 98Skunk.jpg
+50 48 248FieldMouse.jpg
+70 198 248Rabbit.jpg
+12 348 248shrew.jpg
+20 498 248Sparrow.jpg
+30 98 398Grass.jpg
+50 298 398Grasshopper.jpg
+70 498 398blueberry.jpg

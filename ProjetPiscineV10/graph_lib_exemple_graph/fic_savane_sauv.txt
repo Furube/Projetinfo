@@ -1,0 +1,10 @@
+9
+0 12 149 29lion.jpg
+1 20 426 27leopard.jpg
+3 50 723 45hyene.jpg
+4 70 48 248buffle.jpg
+6 20 388 328phacochere.jpg
+8 50 718 366gazelle.jpg
+9 70 60 582hippopotame.jpg
+10 12 56 444fourmi.jpg
+11 20 425 511plantes.jpg

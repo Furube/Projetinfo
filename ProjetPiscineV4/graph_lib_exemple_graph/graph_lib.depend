@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1522851999 source:c:\users\alexa\desktop\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	"map"
+	<fstream>
+
+1522849673 c:\users\alexa\desktop\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522747922 c:\users\alexa\desktop\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522747922 c:\users\alexa\desktop\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522747922 c:\users\alexa\desktop\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522747922 c:\users\alexa\desktop\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522747922 source:c:\users\alexa\desktop\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522747922 source:c:\users\alexa\desktop\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522747922 source:c:\users\alexa\desktop\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522851825 source:c:\users\alexa\desktop\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522858244 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	"map"
+	<fstream>
+
+1522858389 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522744324 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522744324 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522744324 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522852532 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projet d'infov2\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522747924 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projet d'info\projet d'infov2\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projet d'info\projet d'infov2\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522747924 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projet d'info\projet d'infov2\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projet d'info\projet d'infov2\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projet d'info\projet d'infov2\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projet d'info\projet d'infov2\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522747924 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projet d'info\projet d'infov2\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522747924 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522747924 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522747924 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522747924 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522937841 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	"map"
+	<fstream>
+	<sstream>
+
+1522937759 c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522938970 source:c:\users\val_r\desktop\ingé 2\semestre2\théorie des graphes\projet\projetpiscinev4\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523001615 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	"map"
+	<fstream>
+	<sstream>
+
+1522942544 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522744324 c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522744324 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522744324 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522744324 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522954000 source:c:\users\laure\desktop\ece\inge2\semestre2\informatique\projetpiscine\graph_lib_v1\projetpiscinev4\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
